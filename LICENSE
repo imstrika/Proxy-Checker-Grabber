@@ -1,0 +1,73 @@
+# MIT License
+
+Copyright (c) 2025 Isaac
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+## Additional Terms & Disclaimer
+
+### Responsible Use
+
+This tool is provided for educational and authorized security testing purposes only. Users are responsible for:
+
+- **Legal Compliance**: Ensure all usage complies with local, state, and international laws
+- **Authorization**: Only test proxies and systems you own or have explicit written permission to test
+- **Terms of Service**: Respect the terms of service of all websites and services used
+- **Ethical Use**: Do not use for malicious activities, harassment, or illegal purposes
+
+### Liability
+
+The authors and contributors of this project:
+- Assume NO liability for misuse or damage caused by this tool
+- Are not responsible for any legal consequences resulting from its use
+- Do not endorse any illegal or unethical activities
+- Disclaim responsibility for third-party proxy sources
+
+### What You CANNOT Do
+
+❌ Use for DDoS attacks or network disruption  
+❌ Use for unauthorized access to systems  
+❌ Use for scraping without permission  
+❌ Use for spam or phishing  
+❌ Use for circumventing security measures illegally  
+❌ Resell or republish as your own work  
+
+### What You CAN Do
+
+✅ Use for personal security testing (with authorization)  
+✅ Use for educational purposes  
+✅ Modify and redistribute under MIT terms  
+✅ Use in commercial projects (with attribution)  
+✅ Report bugs and submit improvements  
+
+---
+
+## Attribution
+
+If you use this project, we appreciate (but don't require) attribution:
+
+```
+Strika Proxy Checker - https://github.com/yourusername/strika-proxy-checker
+```
+
+---
+
+**By using this software, you acknowledge that you have read, understood, and agree to these terms.**
