@@ -35,7 +35,7 @@ A fast, reliable, and powerful proxy checker and grabber tool written in Python.
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/strika-proxy-checker.git
+git clone https://github.com/imstrika/strika-proxy-checker.git
 cd strika-proxy-checker
 ```
 
@@ -219,5 +219,5 @@ Found a bug or have a suggestion? Open an issue on GitHub!
 
 ---
 
-Made with ❤️ by [Your Name]
+Made with ❤️ by [ImStrika]
 Star ⭐ if you found this useful!
